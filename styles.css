@@ -33,6 +33,9 @@ body {
     width:  50%;
     float:  left;
 }
+#moviePoster{
+    overflow: hidden;
+}
 
 img#moviePoster {
     width:  100%;
